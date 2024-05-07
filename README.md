@@ -1,4 +1,4 @@
-<img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/banner.jpeg" alt="Banner Image" style="width: 50%;">
+<img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/github-header-image.png" alt="Banner Image" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Ghulam Muhammad</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from Pakistan</h3>
 <img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/coding_image.jpeg" alt="Banner Image" style="width: 50%;">
