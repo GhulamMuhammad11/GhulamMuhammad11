@@ -1,7 +1,7 @@
-<img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/banner.jpeg" alt="Banner Image" style="width: 100%;">
+<img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/banner.jpeg" alt="Banner Image" style="width: 50%;">
 <h1 align="center">Hi 👋, I'm Ghulam Muhammad</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from Pakistan</h3>
-<img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/coding_image.jpeg" alt="Banner Image" style="width: 100%;">
+<img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/coding_image.jpeg" alt="Banner Image" style="width: 50%;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulammuhammad11&label=Profile%20views&color=0e75b6&style=flat" alt="ghulammuhammad11" /> </p>
