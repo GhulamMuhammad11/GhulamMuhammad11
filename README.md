@@ -1,7 +1,7 @@
 <img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/github-header-image.png" alt="Banner Image" style="width: 100%;">
 
 # 💫 About Me:
-Currently solving Healthcare and Fintech challenges using AI.<br>I'm learning Deep Reinforcement learning, Generative AI and Pytorch.<br>Ask me about Python, Machine Learning, Deep Learning.<br>How to reach me: gm.baltistani1@gmail.com<br>Know about my experiences https://drive.google.com/file/d/1-xpgJABpuGqd55c3BmRE71qjO8j3zZ3M/view?usp=sharing
+Currently solving Healthcare and Fintech challenges using AI.<br>Working on Deep Reinforcement learning, Generative AI and PyTorch skills.<br>Ask me about Python, Machine Learning, and Deep Learning.<br>How to reach me: gm.baltistani1@gmail.com<br>Know about my experiences https://drive.google.com/file/d/1-xpgJABpuGqd55c3BmRE71qjO8j3zZ3M/view?usp=sharing
 
 
 ## 🌐 Socials:
