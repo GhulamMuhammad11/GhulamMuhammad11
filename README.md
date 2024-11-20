@@ -1,7 +1,7 @@
 <img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/ghulam_github_header_image.png" alt="Banner Image" style="width: 100%;">
 
 # 💫 About Me:
-Currently solving Industrial, Healthcare and Fintech challenges using AI.<br>Working on Deep Reinforcement learning, Generative AI and PyTorch skills.<br>Ask me about Python, Machine Learning, and Deep Learning.<br>How to reach me: gm.baltistani1@gmail.com or ghulam@chungbuk.ac.kr<br>Know about my experiences https://drive.google.com/file/d/1-xpgJABpuGqd55c3BmRE71qjO8j3zZ3M/view?usp=sharing
+Currently solving Autonomous Vehicles, Smart Factories, and Healthcare challenges using AI.<br>Working on Computer Vision, Anomaly Detection in Industrial Products, Deep Reinforcement Learning, Generative AI, and PyTorch skills.<br>Ask me about Python, Machine Learning, and Deep Learning.<br>How to reach me: gm.baltistani1@gmail.com or ghulam@chungbuk.ac.kr<br>Know about my experiences https://drive.google.com/file/d/1-xpgJABpuGqd55c3BmRE71qjO8j3zZ3M/view?usp=sharing
 
 
 ## 🌐 Socials:
