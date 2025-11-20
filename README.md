@@ -1,7 +1,7 @@
 <img src="https://github.com/GhulamMuhammad11/GhulamMuhammad11/blob/main/ghulam_github_header_image.png" alt="Banner Image" style="width: 100%;">
 
 # 💫 About Me:
-I am an Integrated PhD student at MSIS Lab, Chungbuk National University, Cheongju, South Korea. <br>Working on Computer Vision, Anomaly Detection in Industrial Products, Deep Reinforcement Learning, Generative AI, and PyTorch skills.<br>Ask me about Python, Machine Learning, and Deep Learning.<br>How to reach me: gm.baltistani1@gmail.com or ghulam@chungbuk.ac.kr<br>Know about my experiences https://drive.google.com/file/d/1-xpgJABpuGqd55c3BmRE71qjO8j3zZ3M/view?usp=sharing
+I am an Integrated PhD student at MSIS Lab, Chungbuk National University, Cheongju, South Korea. <br>Working on Computer Vision, Anomaly Detection in Industrial Products, Deep Reinforcement Learning, Generative AI, and PyTorch.<br>Ask me about Python, Machine Learning, and Deep Learning.<br>How to reach me: gm.baltistani1@gmail.com or ghulam@chungbuk.ac.kr<br>Know about my experiences https://drive.google.com/file/d/1-xpgJABpuGqd55c3BmRE71qjO8j3zZ3M/view?usp=sharing
 
 
 ## 🌐 Socials:
